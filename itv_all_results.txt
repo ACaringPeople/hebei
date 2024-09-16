@@ -1,9 +1,0 @@
-CCTV6,http://39.164.202.90:8899/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0,0.231 MB/s
-CCTV17,http://39.164.202.90:8899/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0,0.231 MB/s
-保定公共,http://111.225.112.190:808/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0,0.231 MB/s
-吉林卫视,http://111.225.112.190:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0,0.231 MB/s
-安徽卫视,http://39.164.202.90:8899/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,0.231 MB/s
-广西卫视,http://39.164.202.90:8899/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0,0.231 MB/s
-棋牌汇,http://39.164.202.90:8899/tsfile/live/0017_11.m3u8?key=txiptv&playlive=1&authid=0,0.231 MB/s
-金鹰卡通,http://111.225.112.190:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0,0.231 MB/s
-黑龙江卫视,http://111.225.112.190:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0,0.231 MB/s
